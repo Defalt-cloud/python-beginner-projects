@@ -1,0 +1,5 @@
+Python-Beginner-Projects:
+
+When you learn python basics, what you do? Starting project? Here are the some projects Here are some youtube videos u can follow :
+
+1.Guessing game - https://www.youtube.com/playlist?list=PLzMcBGfZo4-lMz6bsWzF2tt8K8iZJdLd1(This video series will guide you.)
